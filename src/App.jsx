@@ -16,9 +16,10 @@ const blogData = [
       <p>One of the highlights was a short seminar on workplace ethics and communication. It helped frame the importance of teamwork, time management, and accountability, all of which are crucial in any professional setting.</p>
       <p>This first day wasn’t just an introduction—it was a transition. From classroom discussions to real-world applications, it marked the beginning of a new chapter in our journey as professionals-in-training.</p>
     `,
-    images: [
+    images: ["/ojt/3.jpg",
       "/prog/1.jpg",
-      "/prog/2.jpg",
+      
+      "/ojt/2.jpg",
       "/prog/3.jpg",
        
     ],
@@ -38,8 +39,8 @@ const blogData = [
     `,
     images: [
       "/ojt/1.jpg",
-      "/ojt/2.jpg",
-      "/ojt/3.jpg",
+      "/prog/3.jpg",
+       
       "/ojt/4.jpg",
     ],
   },
@@ -96,6 +97,8 @@ const blogData = [
     `,
     images: [
       "/se/1.jpg",
+      "/se/2.jpg",
+      "/se/3.jpg",
     ],
   }
   
