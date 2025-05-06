@@ -259,7 +259,7 @@ function BlogList({ posts, onSelect }) {
           <div className="logo">
             <div className="logo-icon">Earl</div>
           </div>
-          <h1>Tech Chronicles</h1>
+          <h1>Earl</h1>
           <p>Documenting Our Journey Through Technology & Innovation</p>
           <div className="header-decoration">
             <span></span>
