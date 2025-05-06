@@ -276,7 +276,7 @@ function BlogList({ posts, onSelect }) {
       <footer className="footer">
         <div className="footer-content">
           <div className="footer-logo">
-            <div className="logo-icon">TC</div>
+            <div className="logo-icon">Earl</div>
           </div>
           <p>© {new Date().getFullYear()} Earl</p>
           <p className="footer-motto">"Innovate. Create. Transform."</p>
