@@ -17,17 +17,17 @@ const blogData = [
       <p>This first day wasn’t just an introduction—it was a transition. From classroom discussions to real-world applications, it marked the beginning of a new chapter in our journey as professionals-in-training.</p>
     `,
     images: ["/ojt/3.jpg",
-      "/prog/1.jpg",
+       
       
       "/ojt/2.jpg",
-      "/prog/3.jpg",
+       
        
     ],
   }
   ,
   {
     id: 2,
-    day: "OJT Meeting",
+    day: "OJT Sutem",
     title: "Initial Team Alignment and Project Briefing",
     date: "March 11, 2025",
     summary: "During our OJT orientation meeting, we were introduced to our mentors, project expectations, and the overall workflow. This session laid the foundation for effective teamwork and clarified our roles in the upcoming smart parking system project.",
@@ -39,7 +39,7 @@ const blogData = [
     `,
     images: [
       "/ojt/1.jpg",
-      "/prog/3.jpg",
+       
        
       "/ojt/4.jpg",
     ],
@@ -118,7 +118,7 @@ const blogData = [
     `,
     images: [
       "/web/1.jpg",
-      "/web/2.jpg",
+      
       
     ],
   }
