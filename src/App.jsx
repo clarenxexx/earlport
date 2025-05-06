@@ -27,7 +27,7 @@ const blogData = [
   ,
   {
     id: 2,
-    day: "OJT Sutem",
+    day: "OJT Sytem",
     title: "Initial Team Alignment and Project Briefing",
     date: "March 11, 2025",
     summary: "During our OJT orientation meeting, we were introduced to our mentors, project expectations, and the overall workflow. This session laid the foundation for effective teamwork and clarified our roles in the upcoming smart parking system project.",
